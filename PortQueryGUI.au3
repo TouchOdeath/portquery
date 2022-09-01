@@ -1,4 +1,3 @@
-;portqueryWrappper
 #include <StaticConstants.au3>
 #include <WindowsConstants.au3>
 #include <GUIConstantsEx.au3>
