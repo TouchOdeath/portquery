@@ -1,4 +1,4 @@
-# PortQuery
+# PortQuery GUI
 Query to see if TCP port is open or closed
 # Linux Usage
 requires netcat `sudo apt install nc -y`
