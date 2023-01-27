@@ -7,7 +7,7 @@ requires netcat `sudo apt install nc -y`
 
 # Scan a Subnet for Open ports
 
-1.  `./PortQuery.sh $IPSubnet $port`
+`./PortQuery.sh $IPSubnet $port`
  
 ex.  `./PortQuery.sh 192.168.1 443`
 # Windows Usage
